@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  margin: 5%;
+}
+
+button {
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  padding: 5px;
+}
