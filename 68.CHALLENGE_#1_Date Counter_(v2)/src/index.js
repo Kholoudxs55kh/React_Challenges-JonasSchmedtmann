@@ -80,7 +80,7 @@ export default function App() {
           style={{ width: "60px" }}
           onClick={() => {
             useCount(0);
-            useSteps(0);
+            useSteps(1);
           }}
         >
           Reset
